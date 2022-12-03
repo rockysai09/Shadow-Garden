@@ -1,10 +1,7 @@
 
 Project Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/d045037a-6ed3-45a5-bfe5-b0d6e06bede9/deploy-status)](https://app.netlify.com/sites/tunic-ban-appeal/deploys)
 
-Inspired by [sylveon](https://github.com/sylveon/discord-ban-appeals)
 
-# [Demo](https://wumpus-ban-appeal.netlify.app)
-## [Support Discord Server](https://discord.gg/EnKHckh6d2)
 
 ##### Table of Contents
 1. [ Deploy on Netlify ](#netlify)
@@ -18,10 +15,6 @@ Inspired by [sylveon](https://github.com/sylveon/discord-ban-appeals)
 9. [ Feature Roadmap ](#featureplan)
 
 
-![Home page](img_2.png)
-![](img_1.png)
-![webhook in action](img.png)
-![user blocked](img_3.png)
 
 # How to use this project:
 
